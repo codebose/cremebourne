@@ -260,11 +260,10 @@ section{
 .featured-logo{
 	width: auto;
 	margin: 10px 20px;
-	filter: none;
 }
 
 .featured-logo:hover{
-	filter: grayscale(100%;
+	filter: grayscale(100%);
 }
 
 /* testimonial */
